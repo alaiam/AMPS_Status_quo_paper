@@ -1,6 +1,6 @@
 # AMPS_Status_quo_paper
 
-The Atlantis Model for Puget Sound has been used to explore future trajectories of the Puget Sound ecosystem, from land to estuarine changes, within the Puget Sound Integrated Modeling Framework. A manuscript (Maigel et al., in prep.) is currently in preparation, and this repository gathers the scripts used to recreate the figures presented in the paper.
+The Atlantis Model for Puget Sound has been used to explore future trajectories of the Puget Sound ecosystem, from land to estuarine changes, within the Puget Sound Integrated Modeling Framework. A manuscript (Maigel et al., in prep.) is currently in preparation, and this repository gathers the scripts used to recreate the figures related to Atlantis presented in the paper.
 
 ## Data
 
